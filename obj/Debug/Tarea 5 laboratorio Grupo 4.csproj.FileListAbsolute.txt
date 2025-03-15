@@ -1,0 +1,7 @@
+C:\Users\japel\source\repos\Tarea 5 laboratorio Grupo 4\bin\Debug\Tarea 5 laboratorio Grupo 4.exe.config
+C:\Users\japel\source\repos\Tarea 5 laboratorio Grupo 4\bin\Debug\Tarea 5 laboratorio Grupo 4.exe
+C:\Users\japel\source\repos\Tarea 5 laboratorio Grupo 4\bin\Debug\Tarea 5 laboratorio Grupo 4.pdb
+C:\Users\japel\source\repos\Tarea 5 laboratorio Grupo 4\obj\Debug\Tarea 5 laboratorio Grupo 4.csproj.AssemblyReference.cache
+C:\Users\japel\source\repos\Tarea 5 laboratorio Grupo 4\obj\Debug\Tarea 5 laboratorio Grupo 4.csproj.CoreCompileInputs.cache
+C:\Users\japel\source\repos\Tarea 5 laboratorio Grupo 4\obj\Debug\Tarea 5 laboratorio Grupo 4.exe
+C:\Users\japel\source\repos\Tarea 5 laboratorio Grupo 4\obj\Debug\Tarea 5 laboratorio Grupo 4.pdb
